@@ -13,5 +13,5 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 - CSS
 
 ## How to use
-You can access my website by visiting.,
+You can access my website by visiting(https://jegan8172.github.io/first-portfolio/)
 Thank you for your visit...
